@@ -1,4 +1,4 @@
-# FoodSight
+# FoodLeftoverEstimation
 
 This project consists of a C++ Computer Vision system to monitor food consumption and waste in canteens. The system has been developed exploiting the OpenCV 4.5.2 library (https://opencv.org/blog/opencv-4-5-2/).
 
